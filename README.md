@@ -121,19 +121,19 @@ Jalankan skrip dalam urutan berikut. Setiap langkah menghasilkan *output* yang m
 
 ### Ringkasan Cepat
 
-| # | *Script* | *Output* Utama |
-|---|---|---|---|
-| 1 | `fetch_nasa_power.py`  | `data/raw/koja_doi_irradiance_temperature_hourly.csv` |
-| 2 | `scripts/validate_iv.py`  | `src/pv_model_tuned.py`, `figures/iv_curve_validation.png` |
-| 3 | `scripts/run_hourly.py`  | `data/processed/normal_condition_timeseries.csv` |
-| 4 | `scripts/generate_dataset.py`  | `data/processed/fault_dataset.csv`, `fault_metadata.json` |
-| 5 | `scripts/train_baseline.py`  | `logs/lstm_baseline_metrics.json`, split `.npz` |
-| 6 | `scripts/train_hybrid.py`  | `logs/ablation_results.json` |
-| 7 | `scripts/eval_final.py`  | `logs/final_evaluation.json`, `logs/best_lstm_gat.pt` |
-| 8 | `scripts/qualitative_analysis.py`  | `figures/qualitative_examples.png` |
-| 9 | `scripts/inference_export.py` | `data/interface/predictions.json` |
-| 10 | `scripts/control_system.py` | `data/interface/control_log.csv`, `figures/dashboard_operator.png` |
-| 11 | `analysis/run_all.py` | `logs/analysis_outputs/*.txt` |
+| #  | Script                        | Output Utama                                                                    |
+|----|-------------------------------|---------------------------------------------------------------------------------|
+| 1  | `fetch_nasa_power.py`         | `data/raw/koja_doi_irradiance_temperature_hourly.csv`                           |
+| 2  | `scripts/validate_iv.py`      | `src/pv_model_tuned.py`, `figures/iv_curve_validation.png`                      |
+| 3  | `scripts/run_hourly.py`       | `data/processed/normal_condition_timeseries.csv`                                |
+| 4  | `scripts/generate_dataset.py` | `data/processed/fault_dataset.csv`, `data/processed/fault_metadata.json`        |
+| 5  | `scripts/train_baseline.py`   | `logs/lstm_baseline_metrics.json`, `logs/splits/*.npz`                          |
+| 6  | `scripts/train_hybrid.py`     | `logs/ablation_results.json`                                                    |
+| 7  | `scripts/eval_final.py`       | `logs/final_evaluation.json`, `logs/best_lstm_gat.pt`                           |
+| 8  | `scripts/qualitative_analysis.py` | `figures/qualitative_examples.png`                                          |
+| 9  | `scripts/inference_export.py` | `data/interface/predictions.json`                                               |
+| 10 | `scripts/control_system.py`   | `data/interface/control_log.csv`, `figures/dashboard_operator.png`              |
+| 11 | `analysis/run_all.py`         | `logs/analysis_outputs/*.txt`                                                   |
 
 
 ---
