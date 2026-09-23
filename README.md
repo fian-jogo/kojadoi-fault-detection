@@ -596,3 +596,17 @@ Semua skrip menggunakan **seed 42** untuk memastikan hasil dapat direproduksi. J
 Untuk verifikasi lengkap, jalankan `analysis/15_environment_verification.py` yang akan mencetak versi *library* dan *device* yang digunakan.
 
 ---
+
+## Dokumentasi Lengkap
+
+Laporan akhir lengkap tersedia di folder `docs/`:
+
+1. `01_scope_and_assumptions.md` — Ruang lingkup dan asumsi
+2. `02_data_acquisition.md` — Akuisisi data NASA POWER
+3. `03_pv_model_validation.md` — Pemodelan fisika dan *auto-tuning*
+4. `04_fault_injection.md` — Injeksi *fault* dan *dataset* sintetik
+5. `05_preprocessing_and_lstm.md` — *Preprocessing* dan *baseline* LSTM
+6. `06_hybrid_model_and_ablation.md` — Model *hybrid* dan *ablation study*
+7. `07_final_evaluation.md` — Evaluasi final dan lapisan aksi
+
+---
