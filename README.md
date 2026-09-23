@@ -1,12 +1,11 @@
 # Sistem Kontrol PLTS untuk Deteksi Dini dan Lokalisasi *Fault*
 
-**Studi Kasus:** PLTS Pulau Koja Doi, Kabupaten Sikka, Nusa Tenggara Timur\
-**Relevansi:** Program 100 GW Pemerintah Indonesia (2026–2029)\
 **Penulis:** Fransiskus Serfian Jogo\
 **Posisi:** Power System & Energy Transition Analyst\
 **Lembaga:** AKSI EKOLOGI & EMANSIPASI RAKYAT (AEER)\
+**Studi Kasus:** PLTS Pulau Koja Doi, Kabupaten Sikka, Nusa Tenggara Timur\
+**Relevansi:** Program 100 GW Pemerintah Indonesia (2026–2029)\
 **Tanggal:** 24 September 2026
-
 
 ---
 
