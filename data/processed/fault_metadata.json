@@ -1,0 +1,2415 @@
+[
+  {
+    "scenario_id": 0,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 167
+  },
+  {
+    "scenario_id": 1,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1448
+  },
+  {
+    "scenario_id": 2,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1363
+  },
+  {
+    "scenario_id": 3,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 516
+  },
+  {
+    "scenario_id": 4,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1586
+  },
+  {
+    "scenario_id": 5,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1702
+  },
+  {
+    "scenario_id": 6,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 958
+  },
+  {
+    "scenario_id": 7,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1501
+  },
+  {
+    "scenario_id": 8,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1293
+  },
+  {
+    "scenario_id": 9,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1147
+  },
+  {
+    "scenario_id": 10,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1192
+  },
+  {
+    "scenario_id": 11,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1173
+  },
+  {
+    "scenario_id": 12,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1563
+  },
+  {
+    "scenario_id": 13,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 599
+  },
+  {
+    "scenario_id": 14,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 108
+  },
+  {
+    "scenario_id": 15,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1604
+  },
+  {
+    "scenario_id": 16,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 578
+  },
+  {
+    "scenario_id": 17,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 986
+  },
+  {
+    "scenario_id": 18,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 161
+  },
+  {
+    "scenario_id": 19,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1411
+  },
+  {
+    "scenario_id": 20,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1209
+  },
+  {
+    "scenario_id": 21,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 240
+  },
+  {
+    "scenario_id": 22,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 138
+  },
+  {
+    "scenario_id": 23,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1604
+  },
+  {
+    "scenario_id": 24,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1235
+  },
+  {
+    "scenario_id": 25,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1675
+  },
+  {
+    "scenario_id": 26,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 791
+  },
+  {
+    "scenario_id": 27,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 149
+  },
+  {
+    "scenario_id": 28,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 523
+  },
+  {
+    "scenario_id": 29,
+    "fault_type": "normal",
+    "onset": -1,
+    "duration": 0,
+    "affected_nodes": [],
+    "magnitude": 0.0,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 191
+  },
+  {
+    "scenario_id": 30,
+    "fault_type": "LLF",
+    "onset": 58,
+    "duration": 35,
+    "affected_nodes": [
+      0,
+      8
+    ],
+    "magnitude": 3.3158865454600783,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 933
+  },
+  {
+    "scenario_id": 31,
+    "fault_type": "LLF",
+    "onset": 36,
+    "duration": 36,
+    "affected_nodes": [
+      10,
+      2
+    ],
+    "magnitude": 6.323990052240675,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 928
+  },
+  {
+    "scenario_id": 32,
+    "fault_type": "LLF",
+    "onset": 23,
+    "duration": 22,
+    "affected_nodes": [
+      1,
+      5
+    ],
+    "magnitude": 9.551671702409658,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 596
+  },
+  {
+    "scenario_id": 33,
+    "fault_type": "LLF",
+    "onset": 54,
+    "duration": 22,
+    "affected_nodes": [
+      5,
+      2
+    ],
+    "magnitude": 1.5499264167807123,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 69
+  },
+  {
+    "scenario_id": 34,
+    "fault_type": "LLF",
+    "onset": 44,
+    "duration": 31,
+    "affected_nodes": [
+      3,
+      9
+    ],
+    "magnitude": 9.208307208643015,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 799
+  },
+  {
+    "scenario_id": 35,
+    "fault_type": "LLF",
+    "onset": 43,
+    "duration": 26,
+    "affected_nodes": [
+      1,
+      9
+    ],
+    "magnitude": 8.270255109132023,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1756
+  },
+  {
+    "scenario_id": 36,
+    "fault_type": "LLF",
+    "onset": 25,
+    "duration": 29,
+    "affected_nodes": [
+      9,
+      4
+    ],
+    "magnitude": 6.243323336953405,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 846
+  },
+  {
+    "scenario_id": 37,
+    "fault_type": "LLF",
+    "onset": 39,
+    "duration": 35,
+    "affected_nodes": [
+      4,
+      10
+    ],
+    "magnitude": 9.056767331078246,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1098
+  },
+  {
+    "scenario_id": 38,
+    "fault_type": "LLF",
+    "onset": 57,
+    "duration": 29,
+    "affected_nodes": [
+      3,
+      5
+    ],
+    "magnitude": 1.7735261797606308,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 37
+  },
+  {
+    "scenario_id": 39,
+    "fault_type": "LLF",
+    "onset": 33,
+    "duration": 32,
+    "affected_nodes": [
+      6,
+      8
+    ],
+    "magnitude": 1.867643689610736,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 732
+  },
+  {
+    "scenario_id": 40,
+    "fault_type": "LLF",
+    "onset": 55,
+    "duration": 31,
+    "affected_nodes": [
+      4,
+      11
+    ],
+    "magnitude": 7.39492084712943,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 443
+  },
+  {
+    "scenario_id": 41,
+    "fault_type": "LLF",
+    "onset": 36,
+    "duration": 40,
+    "affected_nodes": [
+      10,
+      5
+    ],
+    "magnitude": 7.161965439418078,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1089
+  },
+  {
+    "scenario_id": 42,
+    "fault_type": "LLF",
+    "onset": 25,
+    "duration": 40,
+    "affected_nodes": [
+      11,
+      3
+    ],
+    "magnitude": 6.717782768236311,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1747
+  },
+  {
+    "scenario_id": 43,
+    "fault_type": "LLF",
+    "onset": 27,
+    "duration": 16,
+    "affected_nodes": [
+      7,
+      9
+    ],
+    "magnitude": 5.187386306683471,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1386
+  },
+  {
+    "scenario_id": 44,
+    "fault_type": "LLF",
+    "onset": 59,
+    "duration": 34,
+    "affected_nodes": [
+      0,
+      6
+    ],
+    "magnitude": 5.870291706588664,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1001
+  },
+  {
+    "scenario_id": 45,
+    "fault_type": "LLF",
+    "onset": 45,
+    "duration": 34,
+    "affected_nodes": [
+      5,
+      11
+    ],
+    "magnitude": 4.9632292636903825,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1561
+  },
+  {
+    "scenario_id": 46,
+    "fault_type": "LLF",
+    "onset": 29,
+    "duration": 37,
+    "affected_nodes": [
+      8,
+      4
+    ],
+    "magnitude": 1.271873632010476,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 9
+  },
+  {
+    "scenario_id": 47,
+    "fault_type": "LLF",
+    "onset": 46,
+    "duration": 32,
+    "affected_nodes": [
+      5,
+      2
+    ],
+    "magnitude": 5.633437620961805,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1287
+  },
+  {
+    "scenario_id": 48,
+    "fault_type": "LLF",
+    "onset": 39,
+    "duration": 38,
+    "affected_nodes": [
+      3,
+      11
+    ],
+    "magnitude": 0.2951455893605772,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1283
+  },
+  {
+    "scenario_id": 49,
+    "fault_type": "LLF",
+    "onset": 37,
+    "duration": 12,
+    "affected_nodes": [
+      5,
+      8
+    ],
+    "magnitude": 8.490902385005253,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1138
+  },
+  {
+    "scenario_id": 50,
+    "fault_type": "LLF",
+    "onset": 55,
+    "duration": 29,
+    "affected_nodes": [
+      0,
+      4
+    ],
+    "magnitude": 7.872027992247323,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1387
+  },
+  {
+    "scenario_id": 51,
+    "fault_type": "LLF",
+    "onset": 60,
+    "duration": 15,
+    "affected_nodes": [
+      7,
+      0
+    ],
+    "magnitude": 1.2717097480903556,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 632
+  },
+  {
+    "scenario_id": 52,
+    "fault_type": "LLF",
+    "onset": 29,
+    "duration": 37,
+    "affected_nodes": [
+      7,
+      2
+    ],
+    "magnitude": 9.629151315689967,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1215
+  },
+  {
+    "scenario_id": 53,
+    "fault_type": "LLF",
+    "onset": 60,
+    "duration": 18,
+    "affected_nodes": [
+      11,
+      1
+    ],
+    "magnitude": 3.0745561422292584,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 606
+  },
+  {
+    "scenario_id": 54,
+    "fault_type": "LLF",
+    "onset": 21,
+    "duration": 34,
+    "affected_nodes": [
+      9,
+      1
+    ],
+    "magnitude": 7.658476982260193,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1699
+  },
+  {
+    "scenario_id": 55,
+    "fault_type": "LLF",
+    "onset": 45,
+    "duration": 29,
+    "affected_nodes": [
+      11,
+      2
+    ],
+    "magnitude": 8.181882442992373,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 710
+  },
+  {
+    "scenario_id": 56,
+    "fault_type": "LLF",
+    "onset": 20,
+    "duration": 33,
+    "affected_nodes": [
+      0,
+      7
+    ],
+    "magnitude": 7.884815452242157,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 74
+  },
+  {
+    "scenario_id": 57,
+    "fault_type": "LLF",
+    "onset": 59,
+    "duration": 20,
+    "affected_nodes": [
+      9,
+      3
+    ],
+    "magnitude": 0.34092111608167697,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1129
+  },
+  {
+    "scenario_id": 58,
+    "fault_type": "LLF",
+    "onset": 45,
+    "duration": 36,
+    "affected_nodes": [
+      7,
+      3
+    ],
+    "magnitude": 0.38918732277222035,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1167
+  },
+  {
+    "scenario_id": 59,
+    "fault_type": "LLF",
+    "onset": 57,
+    "duration": 25,
+    "affected_nodes": [
+      8,
+      3
+    ],
+    "magnitude": 6.61366269207852,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 973
+  },
+  {
+    "scenario_id": 60,
+    "fault_type": "LLF",
+    "onset": 22,
+    "duration": 14,
+    "affected_nodes": [
+      8,
+      6
+    ],
+    "magnitude": 5.689261197830213,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1303
+  },
+  {
+    "scenario_id": 61,
+    "fault_type": "LLF",
+    "onset": 57,
+    "duration": 36,
+    "affected_nodes": [
+      3,
+      10
+    ],
+    "magnitude": 2.7153102356374657,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 597
+  },
+  {
+    "scenario_id": 62,
+    "fault_type": "LLF",
+    "onset": 27,
+    "duration": 15,
+    "affected_nodes": [
+      3,
+      11
+    ],
+    "magnitude": 2.3519789997882596,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 7
+  },
+  {
+    "scenario_id": 63,
+    "fault_type": "LLF",
+    "onset": 48,
+    "duration": 14,
+    "affected_nodes": [
+      10,
+      4
+    ],
+    "magnitude": 2.087753989070276,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1561
+  },
+  {
+    "scenario_id": 64,
+    "fault_type": "LLF",
+    "onset": 27,
+    "duration": 20,
+    "affected_nodes": [
+      6,
+      8
+    ],
+    "magnitude": 5.956182975666695,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1303
+  },
+  {
+    "scenario_id": 65,
+    "fault_type": "LLF",
+    "onset": 37,
+    "duration": 20,
+    "affected_nodes": [
+      0,
+      10
+    ],
+    "magnitude": 3.5349982556483677,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 608
+  },
+  {
+    "scenario_id": 66,
+    "fault_type": "LLF",
+    "onset": 49,
+    "duration": 29,
+    "affected_nodes": [
+      8,
+      6
+    ],
+    "magnitude": 1.8744966264444836,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 411
+  },
+  {
+    "scenario_id": 67,
+    "fault_type": "LLF",
+    "onset": 25,
+    "duration": 33,
+    "affected_nodes": [
+      4,
+      10
+    ],
+    "magnitude": 5.815750151254726,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1460
+  },
+  {
+    "scenario_id": 68,
+    "fault_type": "LLF",
+    "onset": 22,
+    "duration": 32,
+    "affected_nodes": [
+      4,
+      1
+    ],
+    "magnitude": 6.095156393605758,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 911
+  },
+  {
+    "scenario_id": 69,
+    "fault_type": "LLF",
+    "onset": 53,
+    "duration": 26,
+    "affected_nodes": [
+      10,
+      5
+    ],
+    "magnitude": 3.610050788656264,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1712
+  },
+  {
+    "scenario_id": 70,
+    "fault_type": "LLF",
+    "onset": 28,
+    "duration": 24,
+    "affected_nodes": [
+      5,
+      3
+    ],
+    "magnitude": 3.42705465331662,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1012
+  },
+  {
+    "scenario_id": 71,
+    "fault_type": "LLF",
+    "onset": 57,
+    "duration": 37,
+    "affected_nodes": [
+      0,
+      4
+    ],
+    "magnitude": 6.644537867170943,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 501
+  },
+  {
+    "scenario_id": 72,
+    "fault_type": "LLF",
+    "onset": 20,
+    "duration": 29,
+    "affected_nodes": [
+      1,
+      9
+    ],
+    "magnitude": 9.92445519845343,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 298
+  },
+  {
+    "scenario_id": 73,
+    "fault_type": "LLF",
+    "onset": 45,
+    "duration": 22,
+    "affected_nodes": [
+      9,
+      1
+    ],
+    "magnitude": 5.9521992829379755,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 459
+  },
+  {
+    "scenario_id": 74,
+    "fault_type": "LLF",
+    "onset": 40,
+    "duration": 25,
+    "affected_nodes": [
+      1,
+      7
+    ],
+    "magnitude": 2.758652061851586,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1294
+  },
+  {
+    "scenario_id": 75,
+    "fault_type": "LLF",
+    "onset": 50,
+    "duration": 28,
+    "affected_nodes": [
+      7,
+      8
+    ],
+    "magnitude": 8.435343819981988,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 865
+  },
+  {
+    "scenario_id": 76,
+    "fault_type": "LLF",
+    "onset": 50,
+    "duration": 22,
+    "affected_nodes": [
+      9,
+      3
+    ],
+    "magnitude": 1.624382796684436,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 969
+  },
+  {
+    "scenario_id": 77,
+    "fault_type": "LLF",
+    "onset": 51,
+    "duration": 25,
+    "affected_nodes": [
+      3,
+      9
+    ],
+    "magnitude": 7.64857592467137,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 1587
+  },
+  {
+    "scenario_id": 78,
+    "fault_type": "LLF",
+    "onset": 54,
+    "duration": 15,
+    "affected_nodes": [
+      3,
+      8
+    ],
+    "magnitude": 7.278225829893024,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1253
+  },
+  {
+    "scenario_id": 79,
+    "fault_type": "LLF",
+    "onset": 37,
+    "duration": 18,
+    "affected_nodes": [
+      8,
+      5
+    ],
+    "magnitude": 7.597229594390644,
+    "gradual": false,
+    "n_steps": 100,
+    "start_idx": 400
+  },
+  {
+    "scenario_id": 80,
+    "fault_type": "LGF",
+    "onset": 43,
+    "duration": 17,
+    "affected_nodes": [
+      0
+    ],
+    "magnitude": 3.121546151213069,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 752
+  },
+  {
+    "scenario_id": 81,
+    "fault_type": "LGF",
+    "onset": 35,
+    "duration": 39,
+    "affected_nodes": [
+      6
+    ],
+    "magnitude": 12.015162407638812,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1685
+  },
+  {
+    "scenario_id": 82,
+    "fault_type": "LGF",
+    "onset": 29,
+    "duration": 30,
+    "affected_nodes": [
+      5
+    ],
+    "magnitude": 8.834827585405394,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 967
+  },
+  {
+    "scenario_id": 83,
+    "fault_type": "LGF",
+    "onset": 46,
+    "duration": 38,
+    "affected_nodes": [
+      9
+    ],
+    "magnitude": 3.018399282865274,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 448
+  },
+  {
+    "scenario_id": 84,
+    "fault_type": "LGF",
+    "onset": 26,
+    "duration": 38,
+    "affected_nodes": [
+      9
+    ],
+    "magnitude": 7.715352902054237,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1535
+  },
+  {
+    "scenario_id": 85,
+    "fault_type": "LGF",
+    "onset": 31,
+    "duration": 27,
+    "affected_nodes": [
+      11
+    ],
+    "magnitude": 14.457031614048319,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1665
+  },
+  {
+    "scenario_id": 86,
+    "fault_type": "LGF",
+    "onset": 56,
+    "duration": 18,
+    "affected_nodes": [
+      10
+    ],
+    "magnitude": 1.1827080367495506,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 185
+  },
+  {
+    "scenario_id": 87,
+    "fault_type": "LGF",
+    "onset": 27,
+    "duration": 33,
+    "affected_nodes": [
+      1
+    ],
+    "magnitude": 9.041193789094729,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 747
+  },
+  {
+    "scenario_id": 88,
+    "fault_type": "LGF",
+    "onset": 43,
+    "duration": 11,
+    "affected_nodes": [
+      8
+    ],
+    "magnitude": 15.260273435329712,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 965
+  },
+  {
+    "scenario_id": 89,
+    "fault_type": "LGF",
+    "onset": 33,
+    "duration": 38,
+    "affected_nodes": [
+      1
+    ],
+    "magnitude": 14.851295069512329,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1509
+  },
+  {
+    "scenario_id": 90,
+    "fault_type": "LGF",
+    "onset": 43,
+    "duration": 28,
+    "affected_nodes": [
+      5
+    ],
+    "magnitude": 15.835035050797515,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1594
+  },
+  {
+    "scenario_id": 91,
+    "fault_type": "LGF",
+    "onset": 22,
+    "duration": 37,
+    "affected_nodes": [
+      4
+    ],
+    "magnitude": 10.612960685184065,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 565
+  },
+  {
+    "scenario_id": 92,
+    "fault_type": "LGF",
+    "onset": 38,
+    "duration": 25,
+    "affected_nodes": [
+      2
+    ],
+    "magnitude": 5.54680497938408,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 67
+  },
+  {
+    "scenario_id": 93,
+    "fault_type": "LGF",
+    "onset": 33,
+    "duration": 31,
+    "affected_nodes": [
+      0
+    ],
+    "magnitude": 3.440802464704344,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1592
+  },
+  {
+    "scenario_id": 94,
+    "fault_type": "LGF",
+    "onset": 43,
+    "duration": 14,
+    "affected_nodes": [
+      3
+    ],
+    "magnitude": 11.161835065150276,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 815
+  },
+  {
+    "scenario_id": 95,
+    "fault_type": "LGF",
+    "onset": 54,
+    "duration": 34,
+    "affected_nodes": [
+      7
+    ],
+    "magnitude": 1.2400997941187042,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 515
+  },
+  {
+    "scenario_id": 96,
+    "fault_type": "LGF",
+    "onset": 55,
+    "duration": 36,
+    "affected_nodes": [
+      4
+    ],
+    "magnitude": 11.397772169581042,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 747
+  },
+  {
+    "scenario_id": 97,
+    "fault_type": "LGF",
+    "onset": 29,
+    "duration": 33,
+    "affected_nodes": [
+      3
+    ],
+    "magnitude": 7.422491727467317,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 894
+  },
+  {
+    "scenario_id": 98,
+    "fault_type": "LGF",
+    "onset": 60,
+    "duration": 13,
+    "affected_nodes": [
+      11
+    ],
+    "magnitude": 16.921695453451026,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1308
+  },
+  {
+    "scenario_id": 99,
+    "fault_type": "LGF",
+    "onset": 20,
+    "duration": 30,
+    "affected_nodes": [
+      8
+    ],
+    "magnitude": 0.8311270651751821,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1640
+  },
+  {
+    "scenario_id": 100,
+    "fault_type": "LGF",
+    "onset": 39,
+    "duration": 37,
+    "affected_nodes": [
+      7
+    ],
+    "magnitude": 4.520723478239943,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1577
+  },
+  {
+    "scenario_id": 101,
+    "fault_type": "LGF",
+    "onset": 34,
+    "duration": 28,
+    "affected_nodes": [
+      4
+    ],
+    "magnitude": 10.157622143781927,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 971
+  },
+  {
+    "scenario_id": 102,
+    "fault_type": "LGF",
+    "onset": 43,
+    "duration": 16,
+    "affected_nodes": [
+      7
+    ],
+    "magnitude": 10.113068035387771,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1223
+  },
+  {
+    "scenario_id": 103,
+    "fault_type": "LGF",
+    "onset": 38,
+    "duration": 26,
+    "affected_nodes": [
+      1
+    ],
+    "magnitude": 19.447745802996955,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1324
+  },
+  {
+    "scenario_id": 104,
+    "fault_type": "LGF",
+    "onset": 23,
+    "duration": 20,
+    "affected_nodes": [
+      5
+    ],
+    "magnitude": 8.973965074642978,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1443
+  },
+  {
+    "scenario_id": 105,
+    "fault_type": "LGF",
+    "onset": 29,
+    "duration": 34,
+    "affected_nodes": [
+      0
+    ],
+    "magnitude": 5.655547676277058,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1207
+  },
+  {
+    "scenario_id": 106,
+    "fault_type": "LGF",
+    "onset": 33,
+    "duration": 11,
+    "affected_nodes": [
+      6
+    ],
+    "magnitude": 10.738501154690072,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 637
+  },
+  {
+    "scenario_id": 107,
+    "fault_type": "LGF",
+    "onset": 25,
+    "duration": 10,
+    "affected_nodes": [
+      11
+    ],
+    "magnitude": 3.1432788884624125,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1459
+  },
+  {
+    "scenario_id": 108,
+    "fault_type": "LGF",
+    "onset": 34,
+    "duration": 11,
+    "affected_nodes": [
+      9
+    ],
+    "magnitude": 17.557348889285883,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1153
+  },
+  {
+    "scenario_id": 109,
+    "fault_type": "LGF",
+    "onset": 42,
+    "duration": 12,
+    "affected_nodes": [
+      11
+    ],
+    "magnitude": 14.105014229082673,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 266
+  },
+  {
+    "scenario_id": 110,
+    "fault_type": "LGF",
+    "onset": 58,
+    "duration": 35,
+    "affected_nodes": [
+      11
+    ],
+    "magnitude": 18.614972972879148,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 800
+  },
+  {
+    "scenario_id": 111,
+    "fault_type": "LGF",
+    "onset": 30,
+    "duration": 16,
+    "affected_nodes": [
+      9
+    ],
+    "magnitude": 7.985460425115782,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1588
+  },
+  {
+    "scenario_id": 112,
+    "fault_type": "LGF",
+    "onset": 35,
+    "duration": 29,
+    "affected_nodes": [
+      8
+    ],
+    "magnitude": 4.634052992958948,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1722
+  },
+  {
+    "scenario_id": 113,
+    "fault_type": "LGF",
+    "onset": 59,
+    "duration": 34,
+    "affected_nodes": [
+      7
+    ],
+    "magnitude": 0.9481952116170462,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1148
+  },
+  {
+    "scenario_id": 114,
+    "fault_type": "LGF",
+    "onset": 33,
+    "duration": 26,
+    "affected_nodes": [
+      9
+    ],
+    "magnitude": 15.68068218489766,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1434
+  },
+  {
+    "scenario_id": 115,
+    "fault_type": "LGF",
+    "onset": 44,
+    "duration": 24,
+    "affected_nodes": [
+      10
+    ],
+    "magnitude": 9.361509753135774,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1609
+  },
+  {
+    "scenario_id": 116,
+    "fault_type": "LGF",
+    "onset": 49,
+    "duration": 39,
+    "affected_nodes": [
+      6
+    ],
+    "magnitude": 6.699473674883259,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 718
+  },
+  {
+    "scenario_id": 117,
+    "fault_type": "LGF",
+    "onset": 30,
+    "duration": 20,
+    "affected_nodes": [
+      2
+    ],
+    "magnitude": 7.212384076256933,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 897
+  },
+  {
+    "scenario_id": 118,
+    "fault_type": "LGF",
+    "onset": 48,
+    "duration": 30,
+    "affected_nodes": [
+      1
+    ],
+    "magnitude": 15.73920370223671,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 490
+  },
+  {
+    "scenario_id": 119,
+    "fault_type": "LGF",
+    "onset": 39,
+    "duration": 25,
+    "affected_nodes": [
+      5
+    ],
+    "magnitude": 14.817755069078721,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 954
+  },
+  {
+    "scenario_id": 120,
+    "fault_type": "LGF",
+    "onset": 29,
+    "duration": 32,
+    "affected_nodes": [
+      1
+    ],
+    "magnitude": 3.8704159744856637,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1111
+  },
+  {
+    "scenario_id": 121,
+    "fault_type": "LGF",
+    "onset": 22,
+    "duration": 19,
+    "affected_nodes": [
+      3
+    ],
+    "magnitude": 2.339700174978373,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 151
+  },
+  {
+    "scenario_id": 122,
+    "fault_type": "LGF",
+    "onset": 20,
+    "duration": 14,
+    "affected_nodes": [
+      4
+    ],
+    "magnitude": 14.611950637206007,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 478
+  },
+  {
+    "scenario_id": 123,
+    "fault_type": "LGF",
+    "onset": 43,
+    "duration": 30,
+    "affected_nodes": [
+      5
+    ],
+    "magnitude": 5.057154406628771,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1344
+  },
+  {
+    "scenario_id": 124,
+    "fault_type": "LGF",
+    "onset": 48,
+    "duration": 17,
+    "affected_nodes": [
+      3
+    ],
+    "magnitude": 5.448097805646889,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 604
+  },
+  {
+    "scenario_id": 125,
+    "fault_type": "LGF",
+    "onset": 59,
+    "duration": 36,
+    "affected_nodes": [
+      2
+    ],
+    "magnitude": 4.327096371181607,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 278
+  },
+  {
+    "scenario_id": 126,
+    "fault_type": "LGF",
+    "onset": 30,
+    "duration": 24,
+    "affected_nodes": [
+      9
+    ],
+    "magnitude": 18.91195450415237,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 48
+  },
+  {
+    "scenario_id": 127,
+    "fault_type": "LGF",
+    "onset": 29,
+    "duration": 37,
+    "affected_nodes": [
+      5
+    ],
+    "magnitude": 2.941682278250894,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 515
+  },
+  {
+    "scenario_id": 128,
+    "fault_type": "LGF",
+    "onset": 26,
+    "duration": 20,
+    "affected_nodes": [
+      4
+    ],
+    "magnitude": 15.387975472114613,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 693
+  },
+  {
+    "scenario_id": 129,
+    "fault_type": "LGF",
+    "onset": 32,
+    "duration": 33,
+    "affected_nodes": [
+      1
+    ],
+    "magnitude": 11.848189778465745,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1686
+  },
+  {
+    "scenario_id": 130,
+    "fault_type": "PSC",
+    "onset": 22,
+    "duration": 35,
+    "affected_nodes": [
+      1,
+      0,
+      3,
+      2
+    ],
+    "magnitude": 0.5897702022981715,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1130
+  },
+  {
+    "scenario_id": 131,
+    "fault_type": "PSC",
+    "onset": 31,
+    "duration": 12,
+    "affected_nodes": [
+      6,
+      7
+    ],
+    "magnitude": 0.4434681290137554,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 974
+  },
+  {
+    "scenario_id": 132,
+    "fault_type": "PSC",
+    "onset": 39,
+    "duration": 38,
+    "affected_nodes": [
+      5,
+      6,
+      4,
+      7
+    ],
+    "magnitude": 0.32365857433203854,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1478
+  },
+  {
+    "scenario_id": 133,
+    "fault_type": "PSC",
+    "onset": 57,
+    "duration": 20,
+    "affected_nodes": [
+      1,
+      2
+    ],
+    "magnitude": 0.40328170525842705,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1442
+  },
+  {
+    "scenario_id": 134,
+    "fault_type": "PSC",
+    "onset": 39,
+    "duration": 17,
+    "affected_nodes": [
+      9,
+      8
+    ],
+    "magnitude": 0.4810026415316233,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 531
+  },
+  {
+    "scenario_id": 135,
+    "fault_type": "PSC",
+    "onset": 39,
+    "duration": 40,
+    "affected_nodes": [
+      10,
+      11,
+      9
+    ],
+    "magnitude": 0.5469151303998885,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 174
+  },
+  {
+    "scenario_id": 136,
+    "fault_type": "PSC",
+    "onset": 21,
+    "duration": 38,
+    "affected_nodes": [
+      2
+    ],
+    "magnitude": 0.5006256861650836,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1780
+  },
+  {
+    "scenario_id": 137,
+    "fault_type": "PSC",
+    "onset": 51,
+    "duration": 17,
+    "affected_nodes": [
+      8
+    ],
+    "magnitude": 0.35527462000310134,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 274
+  },
+  {
+    "scenario_id": 138,
+    "fault_type": "PSC",
+    "onset": 41,
+    "duration": 12,
+    "affected_nodes": [
+      1,
+      0,
+      2
+    ],
+    "magnitude": 0.49429485608467183,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 449
+  },
+  {
+    "scenario_id": 139,
+    "fault_type": "PSC",
+    "onset": 44,
+    "duration": 27,
+    "affected_nodes": [
+      4
+    ],
+    "magnitude": 0.4157004551358966,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 378
+  },
+  {
+    "scenario_id": 140,
+    "fault_type": "PSC",
+    "onset": 23,
+    "duration": 12,
+    "affected_nodes": [
+      5,
+      6
+    ],
+    "magnitude": 0.3710629077624825,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1106
+  },
+  {
+    "scenario_id": 141,
+    "fault_type": "PSC",
+    "onset": 20,
+    "duration": 23,
+    "affected_nodes": [
+      10,
+      8,
+      11,
+      9
+    ],
+    "magnitude": 0.5057375892683469,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1472
+  },
+  {
+    "scenario_id": 142,
+    "fault_type": "PSC",
+    "onset": 56,
+    "duration": 17,
+    "affected_nodes": [
+      11,
+      9,
+      10
+    ],
+    "magnitude": 0.5307629339131761,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1352
+  },
+  {
+    "scenario_id": 143,
+    "fault_type": "PSC",
+    "onset": 32,
+    "duration": 16,
+    "affected_nodes": [
+      8,
+      11,
+      9
+    ],
+    "magnitude": 0.3057563697314263,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 853
+  },
+  {
+    "scenario_id": 144,
+    "fault_type": "PSC",
+    "onset": 38,
+    "duration": 33,
+    "affected_nodes": [
+      8,
+      10,
+      9
+    ],
+    "magnitude": 0.4234597087567389,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 306
+  },
+  {
+    "scenario_id": 145,
+    "fault_type": "PSC",
+    "onset": 21,
+    "duration": 39,
+    "affected_nodes": [
+      11,
+      9,
+      8,
+      10
+    ],
+    "magnitude": 0.3484369849044619,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1065
+  },
+  {
+    "scenario_id": 146,
+    "fault_type": "PSC",
+    "onset": 38,
+    "duration": 19,
+    "affected_nodes": [
+      9,
+      11
+    ],
+    "magnitude": 0.4906476811604481,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1807
+  },
+  {
+    "scenario_id": 147,
+    "fault_type": "PSC",
+    "onset": 29,
+    "duration": 23,
+    "affected_nodes": [
+      10,
+      11,
+      8
+    ],
+    "magnitude": 0.3040461967397147,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1281
+  },
+  {
+    "scenario_id": 148,
+    "fault_type": "PSC",
+    "onset": 34,
+    "duration": 31,
+    "affected_nodes": [
+      2
+    ],
+    "magnitude": 0.45703504940619766,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 997
+  },
+  {
+    "scenario_id": 149,
+    "fault_type": "PSC",
+    "onset": 42,
+    "duration": 39,
+    "affected_nodes": [
+      7,
+      6,
+      4,
+      5
+    ],
+    "magnitude": 0.4605972288076292,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1353
+  },
+  {
+    "scenario_id": 150,
+    "fault_type": "PSC",
+    "onset": 42,
+    "duration": 28,
+    "affected_nodes": [
+      5,
+      6,
+      4
+    ],
+    "magnitude": 0.523141556339581,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1789
+  },
+  {
+    "scenario_id": 151,
+    "fault_type": "PSC",
+    "onset": 55,
+    "duration": 34,
+    "affected_nodes": [
+      10,
+      8
+    ],
+    "magnitude": 0.37189314655419886,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 893
+  },
+  {
+    "scenario_id": 152,
+    "fault_type": "PSC",
+    "onset": 51,
+    "duration": 20,
+    "affected_nodes": [
+      8,
+      9,
+      11,
+      10
+    ],
+    "magnitude": 0.5918809232293978,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1600
+  },
+  {
+    "scenario_id": 153,
+    "fault_type": "PSC",
+    "onset": 56,
+    "duration": 17,
+    "affected_nodes": [
+      7
+    ],
+    "magnitude": 0.308881185533504,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 805
+  },
+  {
+    "scenario_id": 154,
+    "fault_type": "PSC",
+    "onset": 40,
+    "duration": 24,
+    "affected_nodes": [
+      1,
+      2,
+      0
+    ],
+    "magnitude": 0.5363931082255606,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 685
+  },
+  {
+    "scenario_id": 155,
+    "fault_type": "PSC",
+    "onset": 52,
+    "duration": 40,
+    "affected_nodes": [
+      10
+    ],
+    "magnitude": 0.5791079892674389,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1804
+  },
+  {
+    "scenario_id": 156,
+    "fault_type": "PSC",
+    "onset": 55,
+    "duration": 40,
+    "affected_nodes": [
+      3,
+      0,
+      1,
+      2
+    ],
+    "magnitude": 0.5312634166831012,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1278
+  },
+  {
+    "scenario_id": 157,
+    "fault_type": "PSC",
+    "onset": 24,
+    "duration": 22,
+    "affected_nodes": [
+      0
+    ],
+    "magnitude": 0.5168831145872798,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1184
+  },
+  {
+    "scenario_id": 158,
+    "fault_type": "PSC",
+    "onset": 31,
+    "duration": 34,
+    "affected_nodes": [
+      1,
+      0
+    ],
+    "magnitude": 0.5315238560710469,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1533
+  },
+  {
+    "scenario_id": 159,
+    "fault_type": "PSC",
+    "onset": 54,
+    "duration": 37,
+    "affected_nodes": [
+      8,
+      10,
+      11,
+      9
+    ],
+    "magnitude": 0.33073395785858906,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 233
+  },
+  {
+    "scenario_id": 160,
+    "fault_type": "PSC",
+    "onset": 32,
+    "duration": 31,
+    "affected_nodes": [
+      4,
+      6
+    ],
+    "magnitude": 0.3529609714046802,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 24
+  },
+  {
+    "scenario_id": 161,
+    "fault_type": "PSC",
+    "onset": 50,
+    "duration": 23,
+    "affected_nodes": [
+      4,
+      7
+    ],
+    "magnitude": 0.32401162976266545,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1593
+  },
+  {
+    "scenario_id": 162,
+    "fault_type": "PSC",
+    "onset": 37,
+    "duration": 33,
+    "affected_nodes": [
+      7,
+      6,
+      4
+    ],
+    "magnitude": 0.5359368555141802,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 957
+  },
+  {
+    "scenario_id": 163,
+    "fault_type": "PSC",
+    "onset": 53,
+    "duration": 22,
+    "affected_nodes": [
+      10
+    ],
+    "magnitude": 0.4964032451860785,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1276
+  },
+  {
+    "scenario_id": 164,
+    "fault_type": "PSC",
+    "onset": 40,
+    "duration": 38,
+    "affected_nodes": [
+      11,
+      9,
+      8,
+      10
+    ],
+    "magnitude": 0.5037870738874279,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 944
+  },
+  {
+    "scenario_id": 165,
+    "fault_type": "PSC",
+    "onset": 24,
+    "duration": 20,
+    "affected_nodes": [
+      2,
+      0
+    ],
+    "magnitude": 0.34245574996481665,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 404
+  },
+  {
+    "scenario_id": 166,
+    "fault_type": "PSC",
+    "onset": 57,
+    "duration": 16,
+    "affected_nodes": [
+      9,
+      11,
+      8,
+      10
+    ],
+    "magnitude": 0.5488452643218713,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1679
+  },
+  {
+    "scenario_id": 167,
+    "fault_type": "PSC",
+    "onset": 39,
+    "duration": 21,
+    "affected_nodes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "magnitude": 0.5632532874463896,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1098
+  },
+  {
+    "scenario_id": 168,
+    "fault_type": "PSC",
+    "onset": 20,
+    "duration": 30,
+    "affected_nodes": [
+      5
+    ],
+    "magnitude": 0.3073773502651391,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 815
+  },
+  {
+    "scenario_id": 169,
+    "fault_type": "PSC",
+    "onset": 27,
+    "duration": 17,
+    "affected_nodes": [
+      1,
+      2
+    ],
+    "magnitude": 0.5300113585621513,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 961
+  },
+  {
+    "scenario_id": 170,
+    "fault_type": "PSC",
+    "onset": 26,
+    "duration": 21,
+    "affected_nodes": [
+      6,
+      5,
+      7,
+      4
+    ],
+    "magnitude": 0.5270358745734545,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 326
+  },
+  {
+    "scenario_id": 171,
+    "fault_type": "PSC",
+    "onset": 32,
+    "duration": 29,
+    "affected_nodes": [
+      5
+    ],
+    "magnitude": 0.5053509940919619,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 967
+  },
+  {
+    "scenario_id": 172,
+    "fault_type": "PSC",
+    "onset": 30,
+    "duration": 15,
+    "affected_nodes": [
+      9,
+      10,
+      11,
+      8
+    ],
+    "magnitude": 0.486083395334885,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1587
+  },
+  {
+    "scenario_id": 173,
+    "fault_type": "PSC",
+    "onset": 33,
+    "duration": 34,
+    "affected_nodes": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "magnitude": 0.3542769913037886,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 239
+  },
+  {
+    "scenario_id": 174,
+    "fault_type": "PSC",
+    "onset": 28,
+    "duration": 18,
+    "affected_nodes": [
+      5,
+      4,
+      6
+    ],
+    "magnitude": 0.3769052583390871,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 526
+  },
+  {
+    "scenario_id": 175,
+    "fault_type": "PSC",
+    "onset": 58,
+    "duration": 20,
+    "affected_nodes": [
+      4,
+      6,
+      7
+    ],
+    "magnitude": 0.4400381898808432,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 1693
+  },
+  {
+    "scenario_id": 176,
+    "fault_type": "PSC",
+    "onset": 31,
+    "duration": 11,
+    "affected_nodes": [
+      1,
+      0,
+      3
+    ],
+    "magnitude": 0.4134113604073735,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 968
+  },
+  {
+    "scenario_id": 177,
+    "fault_type": "PSC",
+    "onset": 27,
+    "duration": 28,
+    "affected_nodes": [
+      3,
+      1,
+      2
+    ],
+    "magnitude": 0.3092103182989318,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 12
+  },
+  {
+    "scenario_id": 178,
+    "fault_type": "PSC",
+    "onset": 53,
+    "duration": 36,
+    "affected_nodes": [
+      4,
+      6
+    ],
+    "magnitude": 0.47278184475118534,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 312
+  },
+  {
+    "scenario_id": 179,
+    "fault_type": "PSC",
+    "onset": 57,
+    "duration": 38,
+    "affected_nodes": [
+      8,
+      9,
+      11,
+      10
+    ],
+    "magnitude": 0.42772644743153365,
+    "gradual": true,
+    "n_steps": 100,
+    "start_idx": 506
+  }
+]
