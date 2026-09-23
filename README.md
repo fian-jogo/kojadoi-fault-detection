@@ -540,34 +540,49 @@ Skrip analisis ini memverifikasi bahwa **semua angka di LAPORAN AKHIR dapat dire
 ## Ringkasan Alur Data
 
 ```
-fetch_nasa_power.py
-        │
-        ▼
-data/raw/koja_doi_*.csv ────► validate_iv.py ────► src/pv_model_tuned.py
-                                                        │
-                                                        ▼
-                                          run_hourly.py ──► normal_condition_timeseries.csv
-                                                        │
-                                                        ▼
-                                        generate_dataset.py ──► fault_dataset.csv
-                                                                     │
-                                                                     ▼
-                                                    train_baseline.py ──► train_val_test_split.npz
-                                                                     │
-                                                                     ▼
-                                                    train_hybrid.py ──► ablation_results.json
-                                                                     │
-                                                                     ▼
-                                                    eval_final.py ──► final_evaluation.json + best_lstm_gat.pt
-                                                                     │
-                                                                     ▼
-                                                    inference_export.py ──► predictions.json
-                                                                     │
-                                                                     ▼
-                                                    control_system.py ──► control_log.csv + dashboard_operator.png
-                                                                     │
-                                                                     ▼
-                                                    analysis/*.py ──► verifikasi semua angka
+## Pipeline Eksekusi
+
+```mermaid
+flowchart TD
+    A["fetch_nasa_power.py"] --> B[("data/raw/<br/>koja_doi_*.csv")]
+    B --> C["scripts/validate_iv.py"]
+    C --> D["src/pv_model_tuned.py"]
+    C --> E["figures/iv_curve_validation.png"]
+    D --> F["scripts/run_hourly.py"]
+    F --> G[("data/processed/<br/>normal_condition_timeseries.csv")]
+    G --> H["scripts/generate_dataset.py"]
+    H --> I[("data/processed/<br/>fault_dataset.csv")]
+    H --> J[("data/processed/<br/>fault_metadata.json")]
+    I --> K["scripts/train_baseline.py"]
+    K --> L["logs/lstm_baseline_metrics.json"]
+    K --> M["logs/splits/*.npz"]
+    M --> N["scripts/train_hybrid.py"]
+    N --> O["logs/ablation_results.json"]
+    O --> P["scripts/eval_final.py"]
+    P --> Q["logs/final_evaluation.json"]
+    P --> R["logs/best_lstm_gat.pt"]
+    R --> S["scripts/inference_export.py"]
+    S --> T["data/interface/predictions.json"]
+    T --> U["scripts/control_system.py"]
+    U --> V["data/interface/control_log.csv"]
+    U --> W["figures/dashboard_operator.png"]
+    R --> X["analysis/run_all.py"]
+    T --> X
+    X --> Y["logs/analysis_outputs/*.txt"]
+
+    %% Gaya visual
+    classDef input    fill:#e3f2fd,stroke:#1565c0,color:#000
+    classDef script   fill:#fff3e0,stroke:#e65100,color:#000
+    classDef data     fill:#e8f5e9,stroke:#2e7d32,color:#000
+    classDef figure   fill:#f3e5f5,stroke:#6a1b9a,color:#000
+    classDef log      fill:#fce4ec,stroke:#ad1457,color:#000
+
+    class A input
+    class C,F,H,K,N,P,S,U,X script
+    class B,G,I,J,T,V data
+    class E,W figure
+    class L,M,O,Q,R,Y log
+```
 ```
 
 ---
