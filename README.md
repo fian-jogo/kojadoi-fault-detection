@@ -3,7 +3,7 @@
 **Studi Kasus:** PLTS Pulau Koja Doi, Kabupaten Sikka, Nusa Tenggara Timur\
 **Relevansi:** Program 100 GW Pemerintah Indonesia (2026–2029)\
 **Penulis:** Fransiskus Serfian Jogo\
-**Tanggal:** 24 September 2026\
+**Tanggal:** 24 September 2026
 
 
 ---
