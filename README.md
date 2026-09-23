@@ -539,7 +539,6 @@ Skrip analisis ini memverifikasi bahwa **semua angka di LAPORAN AKHIR dapat dire
 
 ## Ringkasan Alur Data
 
-```
 ## Pipeline Eksekusi
 
 ```mermaid
@@ -582,7 +581,6 @@ flowchart TD
     class B,G,I,J,T,V data
     class E,W figure
     class L,M,O,Q,R,Y log
-```
 ```
 
 ---
