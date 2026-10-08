@@ -1,6 +1,6 @@
 # Sistem Kontrol PLTS untuk Deteksi Dini dan Lokalisasi *Fault*
 
-**Penulis:** Fransiskus Serfian Jogo\
+**Penulis:** Fransiskus Serfian Jogo
 
 ---
 
